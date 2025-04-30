@@ -50,7 +50,7 @@ h2 {
 
 .details {
     font-style: italic;
-    color: rgb(185, 206, 224);
+    color: rgb(255, 255, 255);
 }
 
 .icons {
@@ -72,12 +72,11 @@ h2 {
     color: white;
 }
 .site-header {
-    position: fixed;     /* ليبقى في الأعلى عند التمرير */
-    top: 0;
-    right: 0;
+         /* ليبقى في الأعلى عند التمرير */
+   
     width:100%;
     padding: 10px 20px;
-    display: flex;
+    
     justify-content: flex-end; /* يحرك المحتوى لليمين */
     align-items: center;
     background: transparent;   /* يمكنك تغييره حسب الخلفية */
@@ -85,9 +84,14 @@ h2 {
   }
   
   .logo {
+    
     height: 150px;
     width: auto;
     max-width: 300px;
+    display: flex;
+    top: 0;
+    right: 0;
+     z-index: 100;
   }
 
 @media screen and(min-width:200px) {
