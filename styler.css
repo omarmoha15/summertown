@@ -25,42 +25,7 @@ body {
     box-shadow: 0 10px 20px black;
     background-size: cover;
     font-family: 'Abel', sans-serif;
-    background-image: url("/image/ali.jpeg");
-}
-
-.bg-yasir {
-  background-image: url('/image/YASIRR.jpeg');
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-ali {
-  background-image: url('/image/alii.jpeg');
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-atheer {
-  background-image: url('/image/atheer.jpeg');
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-fahad {
-  background-image: url('/image/fahad.jpeg');
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-ABUDULLA {
-  background-image: url('/image/abdalaa.jpeg');
-  background-size: cover;
-  background-position: center;
-}
-.bg-omar {
-  background-image: url('/image/omar.jpeg');
-  background-size: cover;
-  background-position: center;
+    background-image: url("/image/rayan1.JPeG");
 }
 
 .gradient {
