@@ -62,6 +62,11 @@ body {
   background-size: cover;
   background-position: center;
 }
+.bg-rayan {
+  background-image: url('/image/rayan1.jpeg');
+  background-size: cover;
+  background-position: center;
+}
 
 .gradient {
     height: 100%;
